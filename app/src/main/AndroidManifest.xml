@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.eqemp.materialdesgin"
+    android:versionCode="9"
+    android:versionName="8.0.1" >
+
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+
+
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="21" />
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/MyTheme"
+        android:name="com.eqemp.materialdesgin.MyApplication">
+
+        <!--<meta-data-->
+            <!--android:name="com.parse.APPLICATION_ID"-->
+            <!--android:value="WpOuQnPfxiYbHFOF6nzZImSCdf0DiljD3J6uStiI" />-->
+        <!--<meta-data-->
+            <!--android:name="com.parse.CLIENT_KEY"-->
+            <!--android:value="nKDX0hfadPeh6J1yvZqU1mnmRrFvx8m5WddvsOxk" />-->
+
+
+
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"/>
+      <!--  <meta-data android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />-->
+
+        <activity
+            android:name="com.eqemp.materialdesgin.MainActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/MyTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.eqemp.materialdesgin.ResultsActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="ResultsActivity"
+            android:theme="@style/MyTheme" >
+        </activity>
+        <activity
+            android:name="com.eqemp.materialdesgin.SingleQuestionDetailActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="single"
+            android:theme="@style/MyTheme" >
+        </activity>
+
+        <service
+            android:name="com.eqemp.firebase.CustomFirebaseMessagingService">
+            <intent-filter>`
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.eqemp.firebase.CustomFirebaseInstanceIDService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT"/>
+            </intent-filter>
+        </service>
+
+
+
+
+    </application>
+
+</manifest>
