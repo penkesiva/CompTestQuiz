@@ -5,28 +5,23 @@
     build-mode="COLD"
     density="420dpi"
     format="10"
-    ir-eligibility="COMPATIBLE"
     plugin-version="3.1.4"
-    timestamp="1538283230728"
+    timestamp="1538287680403"
     token="-2430868624311249499"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="957" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="31" />
+        duration="0" />
     <task
         name="verifier"
-        duration="11" />
-
-    <artifact
-        location="/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-        type="SPLIT" />
+        duration="0" />
 
     <build
         build-mode="FULL"
@@ -83,12 +78,33 @@
     </build>
     <build
         build-mode="COLD"
+        ir-eligibility="R_CLASS_CHANGE"
+        timestamp="1538285873388"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
         ir-eligibility="COMPATIBLE"
-        timestamp="1538283230728"
+        timestamp="1538286389011"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
     </build>
+    <build
+        build-mode="COLD"
+        timestamp="1538286499405"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1538287680403"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

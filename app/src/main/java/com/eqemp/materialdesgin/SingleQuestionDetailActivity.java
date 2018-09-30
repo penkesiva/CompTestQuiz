@@ -1420,11 +1420,9 @@ public class SingleQuestionDetailActivity extends ActionBarActivity {
                         //					radio2.setText(Html.fromHtml(optioncs.get(index),new URLImageParser(radio2, SingleQuestionDetailActivity.this), null));
                         //					radio3.setText(Html.fromHtml(optionds.get(index), new URLImageParser(radio3, SingleQuestionDetailActivity.this), null));
                     } else {
-
                         countertimer.cancel();
                         //countertimer.onFinish();
-                        showCustomDialog("Thanks for completing the test.Here are the Results.");
-
+                        showCustomDialog("Well Done. Tap OK for results!!");
                     }
 
                 }
@@ -1450,12 +1448,6 @@ public class SingleQuestionDetailActivity extends ActionBarActivity {
 
             dialog.setCancelable(false);
             dialog.setContentView(R.layout.finallayout_dialog);
-
-            title = (TextView) dialog.findViewById(R.id.dtitle);
-            dialog_text = (TextView) dialog.findViewById(R.id.dtext);
-
-
-            dialog_text.setText("No Question's for this quiz");
 
             btnCancel = (Button) dialog.findViewById(R.id.btncancel);
             btnCancel.setText("OK");
@@ -1610,9 +1602,6 @@ public class SingleQuestionDetailActivity extends ActionBarActivity {
 
     }
 
-    ;
-
-
     protected void showCustomDialog(String text) {
 
         for (int i = 0; i < answers.size(); i++) {
@@ -1662,14 +1651,13 @@ public class SingleQuestionDetailActivity extends ActionBarActivity {
         dialog.setCancelable(false);
         dialog.setContentView(R.layout.finallayout_dialog);
 
-        title = (TextView) dialog.findViewById(R.id.dtitle);
-        dialog_text = (TextView) dialog.findViewById(R.id.dtext);
+        dialog_text = dialog.findViewById(R.id.dtext);
 
         if (text.equalsIgnoreCase("Time Up")) {
-            title.setText("Oops ...");
-
+            dialog_text.setText(text);
+        } else {
+            dialog_text.setText(text);
         }
-        dialog_text.setText(text);
 
         btnCancel = (Button) dialog.findViewById(R.id.btncancel);
         btnCancel.setText("OK");

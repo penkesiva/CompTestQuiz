@@ -29,8 +29,6 @@
                 ads:adSize="SMART_BANNER"
                 ads:adUnitId="@string/banner_ad_unit_id" />
 
-
-
             <!--
             <FrameLayout
                 android:id="@+id/layout_top"
@@ -147,8 +145,8 @@
                     android:id="@+id/title"
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
-                    android:layout_marginLeft="3dp"
-                    android:layout_marginRight="3dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
                     android:background="@drawable/rectangle"
                     android:fontFamily="sans-serif-light"
                     android:gravity="center"
@@ -170,26 +168,24 @@
                     android:id="@+id/radioGroup1"
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
-                    android:layout_marginRight="3dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp"
                     android:background="@drawable/rectangle"
-                    android:gravity="left" 
-                    android:layout_marginLeft="15dp" >
+                    android:gravity="left" >
 
                     <RadioButton
                         android:id="@+id/radio0"
-                        android:layout_width="wrap_content"
+                        android:layout_width="fill_parent"
                         android:layout_height="wrap_content"
                         android:button="@null"
                         android:drawableLeft="@drawable/checkbox"
                         android:text="RAyala"
-                        android:textColor="#000000"
-                        
-                        />
+                        android:textColor="#000000" />
 
                     <RadioButton
                         android:id="@+id/radio1"
-                        android:layout_width="wrap_content"
+                        android:layout_width="fill_parent"
                         android:layout_height="wrap_content"
                         android:button="@null"
                         android:drawableLeft="@drawable/checkbox"
@@ -198,7 +194,7 @@
 
                     <RadioButton
                         android:id="@+id/radio2"
-                        android:layout_width="wrap_content"
+                        android:layout_width="fill_parent"
                         android:layout_height="wrap_content"
                         android:button="@null"
                         android:drawableLeft="@drawable/checkbox"
@@ -207,7 +203,7 @@
 
                     <RadioButton
                         android:id="@+id/radio3"
-                        android:layout_width="wrap_content"
+                        android:layout_width="fill_parent"
                         android:layout_height="wrap_content"
                         android:button="@null"
                         android:drawableLeft="@drawable/checkbox"
@@ -215,7 +211,6 @@
                         android:textColor="#000000" />
                 </RadioGroup>
 
-               
                 <RelativeLayout
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"

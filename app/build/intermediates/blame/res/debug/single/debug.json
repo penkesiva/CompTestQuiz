@@ -48,24 +48,24 @@
         "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-xhdpi/ic_x.png"
     },
     {
-        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark.xml.flat",
-        "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/play-services-base-9.6.1.aar/2c7c63a40e2f47a6fe00f54884e9b5da/res/drawable/common_google_signin_btn_icon_dark.xml"
-    },
-    {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
         "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/drawable-xhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/play-services-base-9.6.1.aar/2c7c63a40e2f47a6fe00f54884e9b5da/res/drawable/common_google_signin_btn_icon_dark.xml"
     },
     {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_f.png.flat",
         "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-xxhdpi/ic_f.png"
     },
     {
-        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-v14_tab_active_left.xml.flat",
-        "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-v14/tab_active_left.xml"
-    },
-    {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/layout_notification_template_media.xml.flat",
         "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-v14_tab_active_left.xml.flat",
+        "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-v14/tab_active_left.xml"
     },
     {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
@@ -196,12 +196,12 @@
         "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-xxhdpi/ic_y.png"
     },
     {
-        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_list_pressed_holo_dark.9.png.flat",
-        "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/drawable-mdpi/abc_list_pressed_holo_dark.9.png"
-    },
-    {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/menu_show_all_quizes.xml.flat",
         "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/menu/show_all_quizes.xml"
+    },
+    {
+        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/drawable-mdpi/abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_list_longpressed_holo.9.png.flat",
@@ -212,12 +212,12 @@
         "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/drawable-xxhdpi/abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
-        "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_q.png.flat",
         "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-xxhdpi/ic_q.png"
+    },
+    {
+        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xhdpi_charlie.png.flat",
@@ -240,20 +240,20 @@
         "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/drawable/abc_dialog_material_background_light.xml"
     },
     {
-        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/layout_abc_popup_menu_item_layout.xml.flat",
-        "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/layout/abc_popup_menu_item_layout.xml"
-    },
-    {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable_ic_x.png.flat",
         "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable/ic_x.png"
     },
     {
-        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_hardware_keyboard_backspace.png.flat",
-        "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-xhdpi/ic_action_hardware_keyboard_backspace.png"
+        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_full_open_on_phone.png.flat",
         "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/play-services-base-9.6.1.aar/2c7c63a40e2f47a6fe00f54884e9b5da/res/drawable-xxhdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_hardware_keyboard_backspace.png.flat",
+        "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-xhdpi/ic_action_hardware_keyboard_backspace.png"
     },
     {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_like.png.flat",
@@ -268,12 +268,12 @@
         "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/drawable-xxhdpi/abc_ic_clear_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/menu_show_sub_transaction.xml.flat",
-        "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/menu/show_sub_transaction.xml"
-    },
-    {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_e.png.flat",
         "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-xhdpi/ic_e.png"
+    },
+    {
+        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/menu_show_sub_transaction.xml.flat",
+        "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/menu/show_sub_transaction.xml"
     },
     {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_q.png.flat",
@@ -296,16 +296,16 @@
         "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/play-services-base-9.6.1.aar/2c7c63a40e2f47a6fe00f54884e9b5da/res/drawable/common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ph_2.jpg.flat",
-        "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-xxhdpi/ph_2.jpg"
+        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_elements.png.flat",
+        "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-mdpi/ic_elements.png"
     },
     {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/layout_activity_show_sub_transaction.xml.flat",
         "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/layout/activity_show_sub_transaction.xml"
     },
     {
-        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_elements.png.flat",
-        "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-mdpi/ic_elements.png"
+        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ph_2.jpg.flat",
+        "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-xxhdpi/ph_2.jpg"
     },
     {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_dark_focused.9.png.flat",
@@ -400,16 +400,16 @@
         "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/color/switch_thumb_material_light.xml"
     },
     {
-        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_light_pressed.9.png.flat",
-        "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/play-services-base-9.6.1.aar/2c7c63a40e2f47a6fe00f54884e9b5da/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_pressed.9.png"
+        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
     {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_n.png.flat",
         "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-xxhdpi/ic_n.png"
     },
     {
-        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/color_abc_primary_text_disable_only_material_dark.xml.flat",
-        "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/color/abc_primary_text_disable_only_material_dark.xml"
+        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_light_pressed.9.png.flat",
+        "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/play-services-base-9.6.1.aar/2c7c63a40e2f47a6fe00f54884e9b5da/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_pressed.9.png"
     },
     {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -488,60 +488,60 @@
         "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable/ic_contact.png"
     },
     {
-        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_m.png.flat",
-        "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-xxhdpi/ic_m.png"
-    },
-    {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-hdpi_bird.png.flat",
         "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-hdpi/bird.png"
+    },
+    {
+        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_m.png.flat",
+        "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-xxhdpi/ic_m.png"
     },
     {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_next.png.flat",
         "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-hdpi/ic_next.png"
     },
     {
-        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_contact.png.flat",
-        "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-hdpi/icon_contact.png"
+        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/drawable-mdpi/abc_ic_ab_back_mtrl_am_alpha.png"
     },
     {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/drawable-ldrtl-xxhdpi/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
-        "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/drawable-mdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_contact.png.flat",
+        "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-hdpi/icon_contact.png"
     },
     {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/drawable-hdpi/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_list_focused_holo.9.png.flat",
-        "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/drawable-hdpi/abc_list_focused_holo.9.png"
-    },
-    {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/drawable-hdpi/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/anim_abc_slide_out_top.xml.flat",
-        "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/anim/abc_slide_out_top.xml"
+        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_list_focused_holo.9.png.flat",
+        "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/drawable-hdpi/abc_list_focused_holo.9.png"
     },
     {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable_ic_p.png.flat",
         "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable/ic_p.png"
     },
     {
+        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/anim_abc_slide_out_top.xml.flat",
+        "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/anim/abc_slide_out_top.xml"
+    },
+    {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/layout_abc_screen_simple_overlay_action_mode.xml.flat",
         "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_t.png.flat",
-        "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-hdpi/ic_t.png"
-    },
-    {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_light_normal.9.png.flat",
         "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/play-services-base-9.6.1.aar/2c7c63a40e2f47a6fe00f54884e9b5da/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_t.png.flat",
+        "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-hdpi/ic_t.png"
     },
     {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4_common_google_signin_btn_icon_dark_disabled.9.png.flat",
@@ -556,12 +556,12 @@
         "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/drawable-mdpi/abc_ic_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_i.png.flat",
-        "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-hdpi/ic_i.png"
-    },
-    {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_b.png.flat",
         "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-xxhdpi/ic_b.png"
+    },
+    {
+        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_i.png.flat",
+        "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-hdpi/ic_i.png"
     },
     {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/layout_abc_action_bar_title_item.xml.flat",
@@ -576,12 +576,12 @@
         "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-hdpi/ic_f.png"
     },
     {
-        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_l.png.flat",
-        "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-mdpi/ic_l.png"
-    },
-    {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable_ic_action_hardware_keyboard_backspace.png.flat",
         "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable/ic_action_hardware_keyboard_backspace.png"
+    },
+    {
+        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_l.png.flat",
+        "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-mdpi/ic_l.png"
     },
     {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ph_6.jpg.flat",
@@ -660,12 +660,12 @@
         "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable/progress_bar.xml"
     },
     {
-        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_btn_rating_star_off_mtrl_alpha.png.flat",
-        "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/drawable-hdpi/abc_btn_rating_star_off_mtrl_alpha.png"
-    },
-    {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
         "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/drawable-hdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/drawable-hdpi/abc_btn_rating_star_off_mtrl_alpha.png"
     },
     {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable_abc_cab_background_internal_bg.xml.flat",
@@ -676,12 +676,12 @@
         "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-mdpi/ic_v.png"
     },
     {
-        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_done.png.flat",
-        "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-hdpi/ic_action_done.png"
-    },
-    {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_share.png.flat",
         "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-hdpi/ic_share.png"
+    },
+    {
+        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_done.png.flat",
+        "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-hdpi/ic_action_done.png"
     },
     {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable_abc_spinner_textfield_background_material.xml.flat",
@@ -760,12 +760,12 @@
         "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/play-services-base-9.6.1.aar/2c7c63a40e2f47a6fe00f54884e9b5da/res/drawable-tvdpi-v4/common_google_signin_btn_text_dark_focused.9.png"
     },
     {
-        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_light_focused.9.png.flat",
-        "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/play-services-base-9.6.1.aar/2c7c63a40e2f47a6fe00f54884e9b5da/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_focused.9.png"
-    },
-    {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_dark_disabled.9.png.flat",
         "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/play-services-base-9.6.1.aar/2c7c63a40e2f47a6fe00f54884e9b5da/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_light_focused.9.png.flat",
+        "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/play-services-base-9.6.1.aar/2c7c63a40e2f47a6fe00f54884e9b5da/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_focused.9.png"
     },
     {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_list_longpressed_holo.9.png.flat",
@@ -864,24 +864,24 @@
         "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/drawable-mdpi/abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_light_pressed.9.png.flat",
-        "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/play-services-base-9.6.1.aar/2c7c63a40e2f47a6fe00f54884e9b5da/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_pressed.9.png"
-    },
-    {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_ic_action_share.png.flat",
         "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-ldpi/ic_ic_action_share.png"
+    },
+    {
+        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_light_pressed.9.png.flat",
+        "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/play-services-base-9.6.1.aar/2c7c63a40e2f47a6fe00f54884e9b5da/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_pressed.9.png"
     },
     {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/layout_abc_screen_content_include.xml.flat",
         "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/layout/abc_screen_content_include.xml"
     },
     {
-        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_g.png.flat",
-        "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-xxhdpi/ic_g.png"
-    },
-    {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-v23_abc_control_background_material.xml.flat",
         "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_g.png.flat",
+        "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-xxhdpi/ic_g.png"
     },
     {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable_ic_h.png.flat",
@@ -892,20 +892,20 @@
         "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-xhdpi/ic_conversation.png"
     },
     {
-        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_h.png.flat",
-        "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-xhdpi/ic_h.png"
-    },
-    {
-        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ant.png.flat",
-        "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-xxhdpi/ant.png"
+        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/drawable-xhdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_dark_disabled.9.png.flat",
         "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/play-services-base-9.6.1.aar/2c7c63a40e2f47a6fe00f54884e9b5da/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_disabled.9.png"
     },
     {
-        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
-        "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/drawable-xhdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ant.png.flat",
+        "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-xxhdpi/ant.png"
+    },
+    {
+        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_h.png.flat",
+        "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-xhdpi/ic_h.png"
     },
     {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
@@ -940,12 +940,12 @@
         "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/play-services-base-9.6.1.aar/2c7c63a40e2f47a6fe00f54884e9b5da/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_pressed.9.png"
     },
     {
-        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-hdpi_title_bar_menu.png.flat",
-        "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-hdpi/title_bar_menu.png"
-    },
-    {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ic_search_api_mtrl_alpha.png.flat",
         "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/drawable-hdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-hdpi_title_bar_menu.png.flat",
+        "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-hdpi/title_bar_menu.png"
     },
     {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -1148,12 +1148,12 @@
         "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-xhdpi/ic_tick.png"
     },
     {
-        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_background_transition_holo_light.xml.flat",
-        "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/drawable/abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable_trottle_active.xml.flat",
         "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable/trottle_active.xml"
+    },
+    {
+        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/layout_abc_select_dialog_material.xml.flat",
@@ -1200,24 +1200,24 @@
         "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/play-services-base-9.6.1.aar/2c7c63a40e2f47a6fe00f54884e9b5da/res/drawable-mdpi-v4/common_full_open_on_phone.png"
     },
     {
-        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_time.png.flat",
-        "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-mdpi/ic_time.png"
-    },
-    {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
         "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/drawable-hdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_time.png.flat",
+        "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-mdpi/ic_time.png"
     },
     {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable_abc_edit_text_material.xml.flat",
         "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/drawable/abc_edit_text_material.xml"
     },
     {
-        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
-        "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/drawable-xxxhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
-    },
-    {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_e.png.flat",
         "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-hdpi/ic_e.png"
+    },
+    {
+        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/drawable-xxxhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable_ic_ic_action_share.png.flat",
@@ -1316,12 +1316,12 @@
         "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-xhdpi/ic_d.png"
     },
     {
-        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_done.png.flat",
-        "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-xxhdpi/ic_action_done.png"
-    },
-    {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_next.png.flat",
         "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-xhdpi/ic_next.png"
+    },
+    {
+        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_done.png.flat",
+        "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-xxhdpi/ic_action_done.png"
     },
     {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable_drawable_dashed.xml.flat",
@@ -1496,12 +1496,12 @@
         "source": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/src/main/res/drawable-hdpi/ic_x.png"
     },
     {
-        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_scrubber_track_mtrl_alpha.9.png.flat",
-        "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/drawable-xhdpi/abc_scrubber_track_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/drawable-hdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/sivapenke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/9fd4ab0f3b48e696f758967b52733692/res/drawable-xhdpi/abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
