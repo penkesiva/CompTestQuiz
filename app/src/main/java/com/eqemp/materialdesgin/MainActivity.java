@@ -19,22 +19,17 @@ import com.aspose.cells.LoadOptions;
 import com.aspose.cells.Row;
 import com.aspose.cells.Workbook;
 import com.aspose.cells.Worksheet;
+import com.eqemp.L;
 import com.firebase.client.Firebase;
-import com.google.android.gms.ads.AdListener;
-import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.InterstitialAd;
-import com.google.android.gms.ads.MobileAds;
 import com.eqemp.font.RobotoRegularTextView;
-import com.eqemp.materialdesgin.R;
 
 import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.ActionBarDrawerToggle;
-import android.support.v7.widget.Toolbar;
 import android.annotation.SuppressLint;
 import android.app.Dialog;
 import android.content.Context;
@@ -59,7 +54,6 @@ import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.ProgressBar;
 import android.widget.RelativeLayout;
-import android.widget.TextView;
 import android.widget.Toast;
 
 
@@ -70,37 +64,29 @@ public class MainActivity extends ActionBarActivity {
     //String url="https://www.dropbox.com/s/kpwi9wwb7qnwqdp/iolpquiz.xlsx?dl=1";
 
     public static Workbook workbook = null;
-
     public static Workbook getWorkbook() {
         return workbook;
     }
-
     public static void setWorkbook(Workbook workbook) {
         MainActivity.workbook = workbook;
     }
+    public static ArrayList<String> QuizTypes = new ArrayList<>();
 
-    public static ArrayList<String> QuizTypes = new ArrayList<String>();
-    Context context;
-    Button refresh;
-    ListView mDrawerList;
-    RelativeLayout mDrawerPane;
+    private String className = getClass().getSimpleName();
+    private Context context;
+    private Button refresh;
+    private ListView mDrawerList;
+    private RelativeLayout mDrawerPane;
     private ActionBarDrawerToggle mDrawerToggle;
     private DrawerLayout mDrawerLayout;
-    ArrayList<NavItem> mNavItems = new ArrayList<NavItem>();
-    Dialog dialog;
-    RobotoRegularTextView progressdata;
-    ArrayList<String> totalquizes = new ArrayList<String>();
-
-    private int delta_top;
-    private int delta_left;
-    private float scale_width;
-    private float scale_height;
-    ProgressBar mProgress;
-    RelativeLayout profileBox;
-    String title;
-    int imgId;
-    DataBaseHelper dbhelper;
-
+    private ArrayList<NavItem> mNavItems = new ArrayList<>();
+    private Dialog dialog;
+    private RobotoRegularTextView progressData;
+    private ArrayList<String> totalQuizes = new ArrayList<>();
+    private ProgressBar mProgress;
+    private RelativeLayout profileBox;
+    private String title;
+    private DataBaseHelper dbHelper;
     private InterstitialAd mInterstitialAd;
 
     @Override
@@ -158,10 +144,10 @@ public class MainActivity extends ActionBarActivity {
         //MobileAds.initialize(MainActivity.this, "ca-app-pub-3579992647935349~6935520519");
         */
 
-        dbhelper = new DataBaseHelper(MainActivity.this);
+        dbHelper = new DataBaseHelper(MainActivity.this);
 
         mProgress = (ProgressBar) findViewById(R.id.progressbar1);
-        progressdata = (RobotoRegularTextView) findViewById(R.id.progressdata);
+        progressData = (RobotoRegularTextView) findViewById(R.id.progressdata);
 
         mNavItems.add(new NavItem("Quizzes", "All Quizes", R.drawable.quiz));
         mNavItems.add(new NavItem("AttemptedQuizes", "Scores", R.drawable.ic_tick));
@@ -176,7 +162,6 @@ public class MainActivity extends ActionBarActivity {
         profileBox.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {
-
                 openorclose();
             }
         });
@@ -248,7 +233,7 @@ public class MainActivity extends ActionBarActivity {
     }
 
     public void openorclose() {
-        totalquizes.clear();
+        totalQuizes.clear();
         totalQuizes();
 
         //final ImageView myImage = (ImageView) findViewById(R.id.rightclick);
@@ -379,13 +364,13 @@ public class MainActivity extends ActionBarActivity {
                 Cell cell = cellIterator.next();
                 //QuizTypes.add(cell.getStringValue());
                 Log.d("cell", cell.getStringValue());
-                totalquizes.add(cell.getStringValue());
+                totalQuizes.add(cell.getStringValue());
 
             }
         }
-        int totalqui = totalquizes.size() - value;
+        int totalqui = totalQuizes.size() - value;
         //removing first element
-        //totalquizes.remove(0);
+        //totalQuizes.remove(0);
 
         File database = getApplicationContext().getDatabasePath("userDataManager.db");
 
@@ -398,16 +383,16 @@ public class MainActivity extends ActionBarActivity {
         Resources res = getResources();
         Drawable drawable = res.getDrawable(R.drawable.progress_bar);
 
-        Log.d("sqlite data", "" + totalqui + "dads" + dbhelper.getToDoCount());
+        Log.d("sqlite data", "" + totalqui + "dads" + dbHelper.getToDoCount());
 
 
-        if (dbhelper != null && dbhelper.getToDoCount() != 0)
-            mProgress.setProgress(dbhelper.getToDoCount());   // Main Progress
+        if (dbHelper != null && dbHelper.getToDoCount() != 0)
+            mProgress.setProgress(dbHelper.getToDoCount());   // Main Progress
         else
             mProgress.setProgress(0);
         //mProgress.setSecondaryProgress(50); // Secondary Progress
         mProgress.setMax(totalqui); // Maximum Progress
-        progressdata.setText(dbhelper.getToDoCount() + " out of " + totalqui + " quizes Completed");
+        progressData.setText(dbHelper.getToDoCount() + " out of " + totalqui + " quizes Completed");
         mProgress.setProgressDrawable(drawable);
 
         return totalqui;
@@ -454,9 +439,9 @@ public class MainActivity extends ActionBarActivity {
                 input.close();
             } catch (Exception e) {
                 e.printStackTrace();
-                Log.i("ERROR ON DOWNLOADING FILES", "ERROR IS" + e);
+                L.d(className, "ERROR IS" + e);
             } finally {
-                Log.i("CompleatedDOWNLOADING FILES", "ERROR IS");
+                L.d(className, "ERROR IS");
 
             }
             return null;
