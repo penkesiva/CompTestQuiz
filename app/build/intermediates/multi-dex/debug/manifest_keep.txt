@@ -1,3 +1,0 @@
-# Referenced at /Users/sivapenke/Documents/WorkArea/Projects/EqProject/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:29
--keep class com.eqemp.materialdesgin.MyApplication { <init>(...); }
-
